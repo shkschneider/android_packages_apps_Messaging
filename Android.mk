@@ -79,7 +79,7 @@ LOCAL_JACK_ENABLED := disabled
 
 LOCAL_PACKAGE_NAME := messaging
 
-LOCAL_CERTIFICATE := platform
+LOCAL_CERTIFICATE := shared
 
 LOCAL_SDK_VERSION := current
 
